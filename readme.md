@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=F75638&lines=Learning+Stupid+shit;absolutely+no+one+cares+about+;and+trying+to+learn+Java+without+a+brain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75638&width=550&lines=Learning+Stupid+shit;absolutely+no+one+cares+about+;and+trying+to+learn+Java+without+a+brain)](https://git.io/typing-svg)
